@@ -18,11 +18,3 @@ advanced_shell.c  =main file which contains the code for displaying prompt,takin
 Makefile       =file for compiling all the files together
 
 
-
-
-**************************************************************PLS NOTE***********************************************************************
-*****
-Submitted wrong homework through elearning ,i suubmitted project 1 again by mistake instead of sending project 2 
-so im sending this homework through e-mail kindly execuse me
-
-NAME:KAUSHIK SIVAKUMAR kxs104820@utdallas.edu
